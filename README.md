@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sowndarya</h1>
-<h3 align="center">Computer Science & Data Science | Java | Python | ML Enthusiast</h3>
+<h3 align="center">Computer Science & Data Science | Python | ML Enthusiast</h3>
 
 
 
@@ -29,7 +29,7 @@
 <div id="skills" class="tab-content">
   <h2>🧠 Skills</h2>
   <ul>
-    <li><b>Programming:</b> C, C++, Core Java, Python (Basics)</li>
+    <li><b>Programming:</b> Core Java, Python </li>
     <li><b>Frontend:</b> HTML5, CSS3</li>
     <li><b>Database:</b> SQL</li>
     <li><b>Tools:</b> Excel, Power BI (Basics), Git, GitHub</li>
