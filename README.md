@@ -1,70 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sowndarya</h1>
-<h3 align="center">Computer Science & Data Science | Python | ML Enthusiast</h3>
+# Hi, I'm Sowndarya 👋
 
+### Python Developer | Full Stack Development | SQL
 
+I'm a Computer Science and Data Science graduate interested in
+Python development, web technologies, and software development.
 
+## 🛠️ Technical Skills
 
+- **Programming:** Python, SQL, JavaScript
+- **Core Python:** OOP, Exception Handling, Functions, Collections
+- **Web:** HTML5, CSS3, JavaScript, Bootstrap
+- **Backend:** Django, REST APIs
+- **Database:** MySQL, SQL
+- **Frontend:** React.js (Basics)
+- **Tools:** Git, GitHub, VS Code
+- **Libraries:** NumPy, Pandas
 
+## 🚀 Projects
 
+### 🍔 Echo Foods Voice Assistant
+- Voice-enabled food ordering web application
+- Built using Python and Django
+- Implemented login, menu navigation, food search, cart, and order placement
+- Integrated REST APIs
+- Used HTML, CSS, Bootstrap and JavaScript
 
+### 🪐 Prediction of Habitability of Exoplanets
+- Machine learning project using NASA datasets
+- Performed data preprocessing and feature engineering
+- Used Python, Pandas and NumPy
+- Implemented classification algorithms and model evaluation
 
-<div class="tabs">
-  <div class="tab-button" onclick="showTab('about')">👩‍💻 About Me</div>
-  <div class="tab-button" onclick="showTab('skills')">🧠 Skills</div>
-  <div class="tab-button" onclick="showTab('projects')">🚀 Projects</div>
-  <div class="tab-button" onclick="showTab('education')">🎓 Education</div>
-  <div class="tab-button" onclick="showTab('certs')">📜 Certifications</div>
-</div>
+### 🌾 Crop Yield Prediction
+- Machine learning project for crop yield prediction
+- Performed preprocessing and feature engineering
+- Analyzed rainfall, soil type and temperature data
 
----
+### 🎮 JavaScript Mini Projects
+- Tic Tac Toe
+- Stone Paper Scissors
+- Implemented DOM manipulation, event handling and score tracking
 
-<div id="about" class="tab-content active">
-  <h2>👩‍💻 About Me</h2>
-  <p>I am a passionate Computer Science & Data Science student skilled in Core Java, Python, SQL, HTML, CSS, and Data Analysis tools. 
-  I learn quickly, solve problems effectively, and love working on real-world projects.</p>
-  <p><b>Email:</b> sowndaryayamanappaherekurubar@gmail.com</p>
-  <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sowndarya-39b994258/">Click Here</a></p>
-</div>
+## 📚 Currently Improving
 
-<div id="skills" class="tab-content">
-  <h2>🧠 Skills</h2>
-  <ul>
-    <li><b>Programming:</b> Core Java, Python </li>
-    <li><b>Frontend:</b> HTML5, CSS3</li>
-    <li><b>Database:</b> SQL</li>
-    <li><b>Tools:</b> Excel, Power BI (Basics), Git, GitHub</li>
-    <li><b>Soft Skills:</b> Critical Thinking, Decision Making, Project Ownership</li>
-  </ul>
-</div>
+- Python
+- Django
+- REST APIs
+- SQL
+- Data Structures and Algorithms
+- JavaScript
 
-<div id="projects" class="tab-content">
-  <h2>🚀 Projects</h2>
+## 📫 Connect With Me
 
-  <h3>🌾 Crop Yield Prediction (Mini Project)</h3>
-  <p>Developed a machine learning model to predict crop yield in Karnataka using rainfall, temperature, soil type, and fertilizer usage.</p>
-  <p><b>Tech:</b> Python, ML, Regression, Data Visualization</p>
-
-  <h3>🪐 Exoplanet Habitability Prediction (Major Project – Planned)</h3>
-  <p>Building a predictive ML model to determine habitability of exoplanets using NASA datasets.</p>
-  <p><b>Tech:</b> Python, ML, Classification Algorithms</p>
-</div>
-
-<div id="education" class="tab-content">
-  <h2>🎓 Education</h2>
-  <ul>
-    <li><b>BE in Computer Science & Data Science</b>, MIT Kundapura (CGPA: 8.58)</li>
-    <li><b>PUC</b>, Govt PU College Kundapura (70.7%)</li>
-    <li><b>SSLC</b>, Govt High School Tallur (87.6%)</li>
-  </ul>
-</div>
-
-<div id="certs" class="tab-content">
-  <h2>📜 Certifications</h2>
-  <ul>
-    <li>DBMS – NPTEL (IIT Kharagpur)</li>
-    <li>Programming in Java – NPTEL</li>
-    <li>Google Data Analytics – Coursera</li>
-    <li>Infosys Springboard – Young Java Professional</li>
-    <li>Infosys Springboard – Young Python Professional</li>
-  </ul>
-</div>
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: sowndu1802@gmail.com
