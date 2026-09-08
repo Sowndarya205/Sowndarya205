@@ -52,5 +52,5 @@ Python development, web technologies, and software development.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/sowndarya-39b994258/
 - Email: sowndu1802@gmail.com
